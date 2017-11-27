@@ -25,5 +25,6 @@ int main() {
 	//output to a file
 	textgen.writeResultToFile(example, "output.txt");
 	
+	//return to os
 	return 0;
 }
